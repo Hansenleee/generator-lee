@@ -1,0 +1,12 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "template for generaotr-lee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["template"],
+  "author": "libin",
+  "license": "ISC"
+}
